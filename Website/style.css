@@ -1,0 +1,21 @@
+.card{
+margin: 50px;
+}
+li{
+    list-style-type: none;
+}
+.one{
+    text-align: center;
+}
+.onee{
+    text-align: center;
+}
+img:hover{
+    opacity: 0.3;
+}
+img{
+    margin: 20px;
+}
+h1{
+    padding: 0PX 0PX 0PX 100PX;
+}
